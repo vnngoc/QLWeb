@@ -1,3 +1,4 @@
+Hình ảnh DEMO giao diện QUẢN LÝ WEB TẢI GAME
 ![Picture1](https://user-images.githubusercontent.com/107876602/174648552-1f1c5552-cce2-41e6-8502-48c591192e47.jpg)
 ![Picture2](https://user-images.githubusercontent.com/107876602/174648624-66f0dd8a-adbf-4f1b-86cc-e4e45d9dfc02.png)
 ![Picture3](https://user-images.githubusercontent.com/107876602/174648675-d0da9670-11d2-489a-9422-5b826595d58e.jpg)
